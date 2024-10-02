@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyajeet-varma" alt="saumyajeet-varma" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://saumyajeet-varma.github.io/Portfolio/](https://saumyajeet-varma.github.io/Portfolio/)
+
+- 📫 How to reach me **saumyajeetvarma10@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saumyajeet-varma-91bb4025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumyajeet-varma-91bb4025a" height="30" width="40" /></a>
