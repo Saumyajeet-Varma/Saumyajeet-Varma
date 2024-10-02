@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saumyajeet-varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumyajeet-varma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saumyajeet-varma-91bb4025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumyajeet-varma-91bb4025a" height="30" width="40" /></a>
+<a href="https://instagram.com/_saumyajeet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saumyajeet_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saumyajeetvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saumyajeetvarma" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saumyajeet0mnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saumyajeet0mnn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
