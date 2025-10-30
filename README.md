@@ -45,7 +45,7 @@
 </div>
 
 
-
+<br/>
 
 
 <div align="center">
@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://www.kaggle.com/saumyajeetvarma">
-        <img src="	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
     </a>
     <a href="https://leetcode.com/u/SaumyajeetVarma">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
