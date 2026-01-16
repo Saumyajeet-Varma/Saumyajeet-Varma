@@ -55,15 +55,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Saumyajeet-Varma&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="Saumyajeet" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Saumyajeet-Varma&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumyajeet-Varma&theme=algolia&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumyajeet-Varma&theme=algolia&hide_border=false" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumyajeet-Varma&theme=react-dark&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumyajeet-Varma&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 
