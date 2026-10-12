@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Saumyajeet%20Varma&fontSize=60&fontAlignY=35&animation=twinkling&desc=Web%20Developer&descAlignY=58" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC400,50:FFD700,100:FFB800&height=200&section=header&text=Saumyajeet%20Varma&fontSize=55&fontColor=000000&fontAlignY=35&animation=twinkling&desc=SDE%20at%20Flipkart&descAlignY=58&descSize=20&descColor=000000" width="100%" />
 </div>
-
-
 
 
 
@@ -93,7 +91,8 @@
     <br/><br/>
     <img src="https://komarev.com/ghpvc/?username=Saumyajeet-Varma&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
+
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC400,50:FFD700,100:FFB800&height=100&section=footer" width="100%" />
 </div>
 
